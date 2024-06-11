@@ -17,6 +17,6 @@
 
 ## Get in Touch
 - 📧 [Email](mailto:huynhchauhungthinh@gmail.com)
-- 💼 [LinkedIn]([linkedin.com/in/tommy-huynh-29936b1bb](https://www.linkedin.com/in/tommy-huynh-29936b1bb))
+- 💼 [LinkedIn](https://www.linkedin.com/in/tommy-huynh-29936b1bb)
 
 Feel free to check out my repositories and connect with me!
