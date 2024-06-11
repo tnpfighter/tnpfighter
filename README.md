@@ -2,7 +2,7 @@
 
 ## About Me
 - 🏫 **Student at [University of Technology Sydney (UTS)](https://www.uts.edu.au)**
-- 🎓 **Alumnus of Le Hong Phong High School for the Gifted (Class of 1821)**
+- 🎓 **Alumnus of Le Hong Phong High School for the Gifted (18-21)**
 - 📅 **Born in June 2003**
 - 📚 **Major: Networking, Cybersecurity, Cloud Computing**
 
